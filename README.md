@@ -3,7 +3,7 @@
 Привет! Меня зовут Алиса, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 ## Навыки и технологии
-Jira, Confluence, qase.io, sitechko, SQL, pgAdmin, Postman, Swagger, Trello, SoapUI, Chrome DevTools, Mockoon.
+``Jira``, ``Confluence``, ``qase.io``, ``Sitechko``, ``SQL``, ``pgAdmin``, ``Postman``, ``Swagger``, ``Trello``, ``SoapUI``, ``Chrome DevTools``, ``Mockoon``.
 ## Проекты
 **Проект 1:** [Тест веб-приложения для учителей от Skyeng](https://github.com/AlisaGromova/My-portfolio/blob/main/Projects/%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C.md)
 **Задача:** Протестировать новую функциональность приложения: личные события учителя в календаре
@@ -42,7 +42,7 @@ Jira, Confluence, qase.io, sitechko, SQL, pgAdmin, Postman, Swagger, Trello, Soa
 По результатам тестирования был составлен [отчет о тестировании](https://github.com/AlisaGromova/My-portfolio/blob/main/%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C%20SkyEng%20/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8.md)
 
 ## Контактная информация
-- Email: alisa.gromova.vl@gmail.com
+- Email: <alisa.gromova.vl@gmail.com>
 
 
 
