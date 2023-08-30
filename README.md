@@ -2,6 +2,11 @@
 ## Обо мне
 Привет! Меня зовут Алиса, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LBWDvBC8F5kbxOI8Ms/giphy.gif" width="200"/>
+</div>   
+
 ## Навыки и технологии
 ``Jira``, ``Confluence``, ``qase.io``, ``Sitechko``, ``SQL``, ``pgAdmin``, ``Postman``, ``Swagger``, ``Trello``, ``SoapUI``, ``Chrome DevTools``, ``Mockoon``.
 ## Проекты
