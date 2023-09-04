@@ -1,6 +1,6 @@
 # :woman_technologist: Портфолио: инженер по тестированию
 ## Обо мне
-Привет! Меня зовут Алиса, я начинающий тестировщик.
+Привет! :wave: Меня зовут Алиса, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.:woman_student:
 
 <div id="header" align="center">
@@ -48,8 +48,8 @@
 #### 6. Отчет о тестировании
 По результатам тестирования был составлен [отчет о тестировании](https://github.com/AlisaGromova/My-portfolio/blob/main/%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C%20SkyEng%20/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8.md)
 
-## Контактная информация
-- :mailbox: Email: <alisa.gromova.vl@gmail.com>
+## :mailbox: Контактная информация
+- Email: <alisa.gromova.vl@gmail.com>
 - Telegram: [![Telegram_badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/gromova_alisa)
 
 
