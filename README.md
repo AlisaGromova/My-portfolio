@@ -49,7 +49,7 @@
 
 ## Контактная информация
 - Email: <alisa.gromova.vl@gmail.com>
-- [![Telegram_badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/gromova_alisa)
+- Telegram: [![Telegram_badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/gromova_alisa)
 
 
 
