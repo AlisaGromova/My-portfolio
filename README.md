@@ -1,14 +1,15 @@
-# Портфолио: инженер по тестированию
+# :woman_technologist: Портфолио: инженер по тестированию
 ## Обо мне
 Привет! Меня зовут Алиса, я начинающий тестировщик.
-В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
+В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.:woman_student:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LBWDvBC8F5kbxOI8Ms/giphy.gif" width="200"/>
 </div>   
 
-## Навыки и технологии
+## :hammer_and_wrench: Навыки и технологии
 ``Jira``, ``Confluence``, ``qase.io``, ``Sitechko``, ``SQL``, ``pgAdmin``, ``Postman``, ``Swagger``, ``Trello``, ``SoapUI``, ``Chrome DevTools``, ``Mockoon``.
+
 ## Проекты
 **Проект 1:** [Тест веб-приложения для учителей от Skyeng](https://github.com/AlisaGromova/My-portfolio/blob/main/Projects/%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C.md)
 
